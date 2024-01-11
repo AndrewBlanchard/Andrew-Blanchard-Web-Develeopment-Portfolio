@@ -2,12 +2,14 @@
 I have created a portfolio website by writing code from scratch that will showcase my work completed in this Bootcamp, complete with a navigation bar, "About Me", "Portfolio", and "Contact" sections. I have implemented HTML and CSS coding skills learned in the previous weeks, as well as outside sources of information. I have incorporated Images, text, as well as hyperlinks to completed projects (1). I have a working navigation bar, where the UI scrolls to each respected section. The page also adjusts when resized for various screens. 
 
 ## Usage:
-This website is designed to showcase my work as a new front-end web developer, but also serve as a foundation to build up on each week as I learn new components to coding. I have implemented a working navigation bar with working links that scroll down to each section, a detailed about section with a recent photo of myself, and a portfolio section with one of my completed works as a hyperlink with a brief description of the project. And at the bottom I have added some contact information with working hyperlinks to a couple different social media profiles including: LinkedIn and Instagram. 
-## Site Screenshot
+This website is designed to showcase my work as a new front-end web developer, but also serve as a foundation to build up on each week as I learn new components to coding. I have implemented a working navigation bar with working links that scroll down to each section, a detailed about section with a recent photo of myself, and a portfolio section with one of my 
+completed works as a hyperlink with a brief description of the project. And at the bottom I have added some contact information with working hyperlinks to a couple different social media profiles including: LinkedIn and Instagram. 
+
+## Screenshots
 <img alt="Website-Screenshot" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Portfolio%20Website%20Screenshot.png"> 
-## HTML Code
+
 <img alt="html-code" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Week%202%20HTML%20Screenshot.png">
-## CSS Code
+
 <img alt="C=css-code" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Week%202%20CSS%20Screenshot.png"> 
 
 ## Sources:
