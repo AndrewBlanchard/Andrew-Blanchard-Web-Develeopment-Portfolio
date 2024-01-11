@@ -3,11 +3,11 @@ I have created a portfolio website by writing code from scratch that will showca
 
 ## Usage:
 This website is designed to showcase my work as a new front-end web developer, but also serve as a foundation to build up on each week as I learn new components to coding. I have implemented a working navigation bar with working links that scroll down to each section, a detailed about section with a recent photo of myself, and a portfolio section with one of my completed works as a hyperlink with a brief description of the project. And at the bottom I have added some contact information with working hyperlinks to a couple different social media profiles including: LinkedIn and Instagram. 
-# Site Screenshot
+## Site Screenshot
 <img alt="Website-Screenshot" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Portfolio%20Website%20Screenshot.png"> 
-# HTML Code
+## HTML Code
 <img alt="html-code" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Week%202%20HTML%20Screenshot.png">
-# CSS Code
+## CSS Code
 <img alt="C=css-code" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Week%202%20CSS%20Screenshot.png"> 
 
 ## Sources:
