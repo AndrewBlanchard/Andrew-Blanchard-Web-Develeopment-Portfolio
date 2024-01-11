@@ -1,17 +1,22 @@
-# Andrew Blanchard Week 1 Challenge
-I improved the html and css code using seo practices like providing alt text to all images as well as making sure the code is well structured and is in semantical order. 
+# Andrew Blanchard Week 2 Challenge
+I have created a portfolio website by writing code from scratch that will showcase my work completed in this Bootcamp, complete with a navigation bar, "About Me", "Portfolio", and "Contact" sections. I have implemented HTML and CSS coding skills learned in the previous weeks, as well as outside sources of information. I have incorporated Images, text, as well as hyperlinks to completed projects (1). I have a working navigation bar, where the UI scrolls to each respected section. The page also adjusts when resized for various screens. 
 
 ## Usage:
-  This webpage details the benefits of incorporating proper seo practices to grow your business and brand. It features a navigation bar centered at the top of the screen that links to key topics on the webpage. Each image is given the proper alt text to describe the image in detail if a user has trouble loading the content. 
-## Adding Alt text to improve SEO capabilities. 
-<img width="1073" alt="HTML-AltText-Screenshot" src="https://github.com/AndrewBlanchard/Week-1-Challenge/assets/152227162/052bdc6e-46cd-4cea-9edf-e119bcdaa52e"> 
+This website is designed to showcase my work as a new front-end web developer, but also serve as a foundation to build up on each week as I learn new components to coding. I have implemented a working navigation bar with working links that scroll down to each section, a detailed about section with a recent photo of myself, and a portfolio section with one of my completed works as a hyperlink with a brief description of the project. And at the bottom I have added some contact information with working hyperlinks to a couple different social media profiles including: LinkedIn and Instagram. 
+
+<img alt="Website-Screenshot" src="[https://github.com/AndrewBlanchard/Week-1-Challenge/assets/152227162/052bdc6e-46cd-4cea-9edf-e119bcdaa52e](https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Portfolio%20Website%20Screenshot.png)"> 
+<img alt="html-code" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Week%202%20HTML%20Screenshot.png">
+<img alt="C=css-code" src="https://github.com/AndrewBlanchard/Week-2-Challenge-Portfolio/blob/main/Assets/Week%202%20CSS%20Screenshot.png"> 
 
 ## Sources:
-(Best practices for CSS Semantics) https://robdodson.me/posts/css-semantics/
+(Incorporating Images with Text) https://www.w3schools.com/howto/howto_css_image_text.asp
 
-(Alt Text) https://www.freecodecamp.org/news/what-is-alt-text-image-alt-text-html-example/
+(Navigation Bar Help) https://www.youtube.com/watch?v=f3uCSh6LIY0 & https://www.w3schools.com/css/css_navbar.asp 
 
-(Adding images to a README) https://www.youtube.com/watch?v=nvPOUdz5PL4 
+(How to add text next to an image) https://codedamn.com/news/frontend/how-to-put-image-and-text-side-by-side-in-html
+
+(CSS Hover) https://www.w3schools.com/cssref/sel_hover.php 
+
 
 ## License:
 MIT License 
